@@ -1,6 +1,6 @@
 # o que eu aprendi:
 
-**aprendi a estrutura imagens com conteudos como paragrafos.**
+**aprendi a estruturar imagens em conjunto com conteudos como paragrafos e titulos h1.**
 
 ## quais linguagens eu utilizei:
 
